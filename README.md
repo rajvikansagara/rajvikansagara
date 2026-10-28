@@ -175,3 +175,43 @@ XGBoost achieved the lowest forecasting error among the four evaluated models, d
 **Made with 💜, curiosity & code**
 
 </div>
+
+<div align="center">
+
+<h2>💜 06 / LET'S CONNECT</h2>
+
+<h3>🚀 Open to IT Opportunities in Germany</h3>
+
+<p>
+🎓 MSc Data Science, AI & Digital Business (2026)<br>
+💻 Previous Front-End Development Experience<br>
+📍 Based in Germany | Open to Relocation
+</p>
+
+<p>
+<b>Actively seeking opportunities in:</b><br>
+Data Analytics • Business Intelligence • Data Science • AI/ML<br>
+Software Development • Junior IT • Graduate & Trainee Programs
+</p>
+
+<p>
+<b>Open to:</b> Full-Time | Entry-Level | Graduate | Trainee Positions
+</p>
+
+<p>
+✨ Available to discuss opportunities and contribute to real-world projects.
+</p>
+
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-E879F9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<i>Turning curiosity into code, and data into decisions.</i>
+
+<br><br>
+
+♡ Designed with creativity. Built with code. ♡
+
+</div>
