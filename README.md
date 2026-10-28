@@ -70,3 +70,36 @@ developer:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,git,github&theme=dark" alt="Development tools" />
 </p>
+
+<br>
+
+<h2>🚀 03 / FEATURED RESEARCH & PROJECTS</h2>
+
+<h3>📊 Retail Demand Forecasting & Inventory Decision Support</h3>
+
+<p>
+Exploring how Machine Learning and Deep Learning models
+can improve retail demand forecasting and support smarter
+inventory decisions.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajvikansagara&repo=retail-demand-forecasting-decision-support&theme=midnight-purple&hide_border=true"
+  alt="Retail Demand Forecasting Project" />
+</p>
+
+<br>
+
+<h2>📊 04 / GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajvikansagara&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvikansagara&layout=compact&theme=midnight-purple&hide_border=true" alt="Most used repository languages" />
+
+<br><br>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvikansagara&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
