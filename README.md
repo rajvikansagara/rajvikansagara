@@ -46,3 +46,27 @@ developer:
 ```
 
 > ✨ I enjoy exploring the intersection of data, intelligence, and technology to build solutions that make a difference.
+
+<h2>⚡ 02 / MY TECH STACK</h2>
+
+<h3>🧠 Data Science & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" alt="Python and Scikit-learn" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" alt="NumPy" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analysis-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-C084FC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-E879F9?style=for-the-badge" />
+</p>
+
+<h3>💻 Development & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github&theme=dark" alt="Development tools" />
+</p>
