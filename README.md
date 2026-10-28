@@ -20,6 +20,18 @@
 </div>
 
 ---
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajvikansagara/rajvikansagara/main/rajvi_cosmic_divider.gif"
+     width="100%"
+     alt="Animated cosmic data particles">
+
+</div>
+
+<br>
+
 
 ### 💻 01 / WHO AM I?
 
@@ -87,6 +99,18 @@ inventory decisions.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajvikansagara&repo=retail-demand-forecasting-decision-support&theme=midnight-purple&hide_border=true"
   alt="Retail Demand Forecasting Project" />
 </p>
+
+<br>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajvikansagara/rajvikansagara/main/rajvi_cosmic_divider.gif"
+     width="100%"
+     alt="Animated cosmic data particles">
+
+</div>
 
 <br>
 
@@ -175,6 +199,18 @@ XGBoost achieved the lowest forecasting error among the four evaluated models, d
 **Made with 💜, curiosity & code**
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajvikansagara/rajvikansagara/main/rajvi_cosmic_divider.gif"
+     width="100%"
+     alt="Animated cosmic data particles">
+
+</div>
+
+<br>
 
 <div align="center">
 
