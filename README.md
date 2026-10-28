@@ -103,3 +103,75 @@ inventory decisions.
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvikansagara&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
+
+---
+
+<br>
+
+<h2>🧠 05 / RESEARCH LAB</h2>
+
+<h3>🎓 MSc Data Science, AI & Digital Business | 2026</h3>
+
+> **Research Focus:** Comparative Analysis of Machine Learning and Deep Learning Models for Retail Demand Forecasting and Inventory Decision Support.
+
+### ⚡ Research at a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Models_Compared-4-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Best_Model-XGBoost-E879F9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Best_MAPE-6.53%25-C084FC?style=for-the-badge" />
+</p>
+
+### 📊 Model Performance
+
+| Model | MAE | RMSE | MAPE |
+|:---|---:|---:|---:|
+| 🥇 **XGBoost** | 245.81 | 317.28 | **6.53%** |
+| 🥈 LSTM | 334.93 | 476.36 | 8.06% |
+| 🥉 SARIMA | 566.30 | 716.08 | 14.85% |
+| Seasonal Naive | 981.45 | 1162.32 | 26.29% |
+
+<sub>Results reported in my MSc thesis. Fresh retraining may produce different values.</sub>
+
+### 🔬 Research Workflow
+
+```text
+    RETAIL SALES DATA
+           │
+           ▼
+    DATA PREPROCESSING
+           │
+           ▼
+    FEATURE ENGINEERING
+           │
+           ▼
+    ML & DL MODEL TRAINING
+           │
+           ▼
+    PERFORMANCE EVALUATION
+           │
+           ▼
+    INVENTORY DECISION SUPPORT
+```
+
+### 💡 Key Research Finding
+
+XGBoost achieved the lowest forecasting error among the four evaluated models, demonstrating the effectiveness of machine learning for the selected retail demand forecasting task.
+
+<p align="center">
+  <a href="https://github.com/rajvikansagara/retail-demand-forecasting-decision-support">
+    <img src="https://img.shields.io/badge/EXPLORE_FULL_RESEARCH-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for exploring my digital space!
+
+*Building meaningful solutions, one dataset at a time.*
+
+**Made with 💜, curiosity & code**
+
+</div>
