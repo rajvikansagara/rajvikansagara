@@ -21,64 +21,28 @@
 
 ---
 
-### 🌷 A Little About Me
+### 💻 01 / WHO AM I?
 
-Hi, I'm Rajvi!
+```yaml
+developer:
+  name: Rajvi Kansagara
+  location: Germany 🇩🇪
+  education: MSc Data Science, AI & Digital Business (2026)
+  background: Front-End Development
 
-I enjoy transforming data into meaningful insights and building
-technology that solves real-world problems.
+  expertise:
+    - Data Analytics & Visualization
+    - Machine Learning & AI
+    - Python & SQL
+    - Web Development
 
-- 🎓 MSc in Data Science, AI & Digital Business
-- 💻 Background in Front-End Development
-- 📊 Interested in Data Analytics, AI & Machine Learning
-- 🌱 Currently exploring new technologies and building projects
-- ✨ I believe good technology should be both useful and thoughtful
+  interests:
+    - Predictive Modeling
+    - Intelligent Applications
+    - Data-Driven Decision Making
 
----
+  current_status: Open to Opportunities 🚀
+  philosophy: "Turning complex data into meaningful solutions."
+```
 
-### 🪻 My Digital Toolbox
-
-**Data & AI**
-
-`Python` `SQL` `Pandas` `NumPy` `Machine Learning`
-
-**Development**
-
-`JavaScript` `HTML` `CSS`
-
-**What I Enjoy**
-
-`Data Analysis` `Problem Solving` `Web Development`
-
----
-
-### 🌸 Things I've Built
-
-#### 📊 Retail Demand Forecasting & Decision Support
-
-Exploring how machine learning and deep learning can improve
-retail demand forecasting and support inventory decisions.
-
-[✨ Explore the Project](https://github.com/rajvikansagara/retail-demand-forecasting-decision-support)
-
----
-
-### 🌱 Currently Growing
-
-🔮 Exploring AI and data-driven applications
-
-💻 Improving my development skills
-
-🌷 Building a portfolio of meaningful projects
-
----
-
-<div align="center">
-
-### ✧ Let's Connect & Create ✧
-
-*Every great project starts with a little curiosity.*
-
-♡ Made with curiosity, creativity & code ♡
-
-</div>
+> ✨ I enjoy exploring the intersection of data, intelligence, and technology to build solutions that make a difference.
