@@ -202,7 +202,7 @@ Software Development • Junior IT • Graduate & Trainee Programs
 ✨ Available to discuss opportunities and contribute to real-world projects.
 </p>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:rajvi1019Qgmail.com">
   <img src="https://img.shields.io/badge/CONTACT_ME-E879F9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
