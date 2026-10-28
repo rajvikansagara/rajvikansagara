@@ -11,6 +11,11 @@
 **Data Science · Artificial Intelligence · Front-End Development**
 
 🌸 Based in Germany | Open to Opportunities
+<br><br>
+
+<img src="https://raw.githubusercontent.com/rajvikansagara/rajvikansagara/main/rajvi_data_pipeline.gif"
+     alt="Animated Data Science Pipeline"
+     width="800" />
 
 </div>
 
