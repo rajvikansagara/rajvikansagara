@@ -1,6 +1,8 @@
 <div align="center">
 
-# ✦ Rajvi Kansagara ✦
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=680&height=75&lines=Hi%2C+I%27m+Rajvi+Kansagara" alt="Animated name" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2800&pause=900&color=B18CFF&center=true&vCenter=true&width=680&lines=MSc+in+Data+Science+and+AI;Turning+Data+into+Real+Decisions;Python+%7C+SQL+%7C+Machine+Learning;Front-End+Developer+%7C+Based+in+Germany" alt="Animated typing introduction" />
 
 ### 🌷 Data in Bloom
 
